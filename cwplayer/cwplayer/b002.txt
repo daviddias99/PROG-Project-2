@@ -1,0 +1,14 @@
+synonyms.txt
+
+ K I L L # R 
+ . . O . . U 
+ # . N . . S 
+ D # G U S T 
+ I . # . . L 
+ E . . . . E 
+
+AaH KILL
+AcV LONG
+AfV RUSTLE
+DaV DIE
+DcH GUST

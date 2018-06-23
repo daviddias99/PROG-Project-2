@@ -1,0 +1,21 @@
+synonyms.txt
+
+ W O R K # # # # # # 
+ E B U L L I T I O N 
+ A V # # # # # # # # 
+ K I L L # # # # # # 
+ # O I A # # # # # # 
+ D U T Y # # # # # # 
+ # S T # # # # # # # 
+ # # L # # # # # # # 
+ # # E # # # # # # # 
+ # # # # # # # # # # 
+
+AaH WORK
+AaV WEAK
+AbV OBVIOUS
+BaH EBULLITION
+DaH KILL
+DcV LITTLE
+DdV LAY
+FaH DUTY
