@@ -7,8 +7,7 @@
 **Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Luís Cunha ([luispcunha](https://github.com/luispcunha))
 
 ---
-
-**Description:** *See below*
+**Description:** *See bellow*. The detailed specification can be found in the `docs` folder.
 
 **Technologies:** C/C++
 
